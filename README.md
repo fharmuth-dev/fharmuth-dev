@@ -1,16 +1,13 @@
-## Hi there 👋
+# Fabian · FH Development
 
-<!--
-**fharmuth-dev/fharmuth-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue Websites und Web-Apps aus Ulm, jede von Grund auf gebaut, schnell am Handy. Auf Wunsch im Hintergrund für Agenturen: Sie haben den Kunden, ich baue die Seite.
 
-Here are some ideas to get you started:
+**Womit ich arbeite:** HTML, CSS, JavaScript, Tailwind, WebGL, PWAs, Cloudflare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hier finden Sie:**
+
+- [bausteine](https://github.com/fharmuth-dev/bausteine): kleine, eigenständige Beispiele, die je für sich laufen. Eine PWA, die offline weiterläuft, und ein Kontaktformular mit Prüfung ohne Bibliothek.
+
+Kundenprojekte liegen in den Konten der Kunden, deshalb sehen Sie hier keinen Kundencode. Fertige Seiten zeige ich auf [fh-development.de](https://fh-development.de).
+
+Anfragen bitte über das Formular auf [fh-development.de](https://fh-development.de).
